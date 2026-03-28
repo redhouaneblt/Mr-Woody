@@ -1,0 +1,7 @@
+{
+  "name": "Mr Woody - Premium Wood Craftsmanship",
+  "description": "High-end custom wood furniture and design services. Crafting luxury doors, kitchens, and interior decorations with a passion for wood.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
